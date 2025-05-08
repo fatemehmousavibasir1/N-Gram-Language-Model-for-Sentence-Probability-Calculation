@@ -6,7 +6,6 @@ This Python script implements an N-Gram Language Model to calculate the probabil
 The script is designed to handle Persian text and uses the **Hazm** library for tokenization, normalization, lemmatization, and stemming.
 
 ## Requirements
-
 - Python 3.x
 - **Libraries**:
   - `nltk`: for n-gram generation and word tokenization.
